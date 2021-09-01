@@ -1,0 +1,22 @@
+{
+  "name": "sprint2",
+  "version": "1.0.0",
+  "description": "Ejecicio Segundo Sprint BackEnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crisssv/Sprint2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crisssv/Sprint2/issues"
+  },
+  "homepage": "https://github.com/Crisssv/Sprint2#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
